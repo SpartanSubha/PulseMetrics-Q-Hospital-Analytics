@@ -174,9 +174,10 @@ then `02_data_quality_audit.ipynb` for the full cleaning pipeline.
 
 ## 👤 Author
 
-**Subhabrata**  
+**Subhabrata Sahoo**  
 MBA (Marketing & Operations) · Data & Business Analytics  
-📧 kitusahoo@gmail.com  
+📧 sahoosubhabrata0@gmail.com 
+📁 [Resume](https://github.com/SpartanSubha/resume)
 🔗 [LinkedIn](https://linkedin.com/in/subhabrata99) · [GitHub](https://github.com/SpartanSubha)
 
 ---
