@@ -163,10 +163,10 @@ PulseMetrics-Q/
 
 | Executive Revenue Indicators | Operational Rates Overview |
 |:---:|:---:|
-| ![Revenue Indicators](outputs/figures/00_executive_revenue_indicators.png) | ![Key Rate Indicators](outputs/figures/01_chain_key_rate_indicators.png) |
+| ![Revenue Indicators](https://github.com/SpartanSubha/PulseMetrics-Q-Hospital-Analytics/blob/main/outputs/figures/00_executive_revenue_indicators.png) | ![Key Rate Indicators](https://github.com/SpartanSubha/PulseMetrics-Q-Hospital-Analytics/blob/main/outputs/figures/01_chain_key_rate_indicators.png) |
 
 #### 🏆 25 Hospital Branches Ranked by Net Revenue (FY2024)
-![25 Hospitals Ranked by Net Revenue](outputs/figures/02_branch_revenue_ranking.png)
+![25 Hospitals Ranked by Net Revenue](https://github.com/SpartanSubha/PulseMetrics-Q-Hospital-Analytics/blob/main/outputs/figures/02_branch_revenue_ranking.png)
 
 📄 **Supporting Data Reports:**
 - [`00_chain_executive_scorecard.csv`](outputs/reports/00_chain_executive_scorecard.csv) — 22 executive-level KPIs
