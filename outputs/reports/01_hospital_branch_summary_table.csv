@@ -1,0 +1,26 @@
+﻿Hospital Name,Region,Tier,Admissions,Beds,Occupancy %,Net Revenue (₹ Cr),Collected Amount (₹ Cr),ARPOB (₹/day),ALOS (days),Readmission %,Mortality %,Avg CSAT,Avg NPS
+PulseMetrics Hospital Mumbai,West,Tier-1,11048,800,32.27,320.79,289.47,34039.45,8.53,5.44,12.18,4.25,65.04
+PulseMetrics Hospital Bengaluru,South,Tier-1,8981,650,30.71,260.64,235.17,35771.48,8.11,5.61,11.13,4.1,64.35
+PulseMetrics Hospital Delhi,North,Tier-1,10165,720,27.02,236.44,213.03,33302.86,6.98,6.18,11.43,3.85,64.67
+PulseMetrics Hospital Chennai,South,Tier-1,8455,600,28.22,235.74,212.3,38150.74,7.31,5.25,9.12,4.04,64.66
+PulseMetrics Hospital Hyderabad,South,Tier-1,8018,580,25.44,218.14,196.56,40505.31,6.72,6.91,9.02,3.68,45.46
+PulseMetrics Hospital Kolkata,East,Tier-1,7129,500,25.86,158.44,142.71,33566.42,6.62,7.73,10.21,3.56,45.21
+PulseMetrics Hospital Pune,West,Tier-1,6176,450,21.38,157.73,141.95,44915.99,5.69,7.38,8.08,3.71,44.5
+PulseMetrics Hospital Ahmedabad,West,Tier-1,5752,420,20.21,144.37,129.97,46597.28,5.39,7.63,7.7,3.18,27.81
+PulseMetrics Hospital Kochi,South,Tier-2,4275,310,21.01,71.85,59.96,30221.28,5.56,4.82,5.66,3.83,64.78
+PulseMetrics Hospital Jaipur,North,Tier-2,4558,320,17.93,59.33,49.48,28324.07,4.6,8.97,7.59,3.35,45.04
+PulseMetrics Hospital Lucknow,North,Tier-2,4150,300,18.57,54.87,45.76,26980.26,4.9,11.06,8.63,2.88,27.17
+PulseMetrics Hospital Indore,West,Tier-2,3339,240,15.55,50.32,42.07,36951.09,4.08,12.67,5.24,2.76,14.88
+PulseMetrics Hospital Visakhapatnam,South,Tier-2,3165,230,18.3,50.31,42.0,32740.79,4.86,9.51,5.72,3.0,28.12
+PulseMetrics Hospital Bhubaneswar,East,Tier-2,3798,280,20.69,50.12,41.8,23707.23,5.57,7.66,6.69,3.47,45.02
+PulseMetrics Hospital Thiruvananthapuram,South,Tier-2,2937,210,18.05,48.5,40.75,35047.77,4.71,7.8,4.43,3.31,27.3
+PulseMetrics Hospital Chandigarh,North,Tier-2,3591,260,16.94,46.43,38.88,28883.48,4.48,9.66,5.82,3.08,26.86
+PulseMetrics Hospital Nagpur,West,Tier-2,3096,220,16.12,46.31,38.74,35767.89,4.18,11.27,5.26,2.82,15.29
+PulseMetrics Hospital Coimbatore,South,Tier-2,2851,200,17.92,45.11,37.81,34475.89,4.59,6.73,4.88,3.65,44.79
+PulseMetrics Hospital Surat,West,Tier-2,2803,200,14.24,41.29,34.5,39727.53,3.71,9.35,4.71,2.89,26.95
+PulseMetrics Hospital Vadodara,West,Tier-2,2626,185,12.95,36.39,30.33,41630.9,3.33,9.52,3.96,2.81,14.36
+PulseMetrics Hospital Bhopal,West,Tier-2,2393,175,14.14,35.01,29.19,38750.31,3.78,13.33,5.06,2.54,14.82
+PulseMetrics Hospital Patna,East,Tier-2,2688,190,16.74,33.58,28.04,28926.56,4.32,13.58,7.51,2.63,15.34
+PulseMetrics Hospital Guwahati,East,Tier-2,2500,180,15.13,30.87,25.78,31056.32,3.98,11.16,4.56,2.42,15.2
+PulseMetrics Hospital Dehradun,North,Tier-2,2268,160,14.85,29.11,24.29,33570.09,3.82,9.92,4.67,2.77,16.04
+PulseMetrics Hospital Ranchi,East,Tier-2,2038,150,12.9,25.33,21.17,35872.78,3.47,13.74,3.97,2.36,14.55
